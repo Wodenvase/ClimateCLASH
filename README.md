@@ -1,5 +1,5 @@
 # Climate-Clash
-An extensive analysis that aims to identify the specific climatic factors in VIT Bhopal responsible for causing my medical issues by analyzing and comparing the climatic data of VIT Bhopal with my hometown (Kottayam, Kerala).
+An extensive analysis that aims to identify the specific climatic factors in VIT Bhopal responsible for causing my medical issues by analyzing and comparing the climatic data of VIT Bhopal with some place much more humid or coastal(Kottayam, Kerala).
 
 ## Screenshots
 
