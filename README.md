@@ -1,21 +1,17 @@
 # Climate-Clash
 An extensive analysis that aims to identify the specific climatic factors in VIT Bhopal responsible for causing my medical issues by analyzing and comparing the climatic data of VIT Bhopal with my hometown (Kottayam, Kerala).
 
-## Project Link
-[Dashboard Link](https://public.tableau.com/views/ClimateClash/Analysis?:language=en-US&:display_count=n&:origin=viz_share_link)
-
 ## Screenshots
 
 ### Analysis
-![image](https://github.com/Pritosh4/Climate-Clash/assets/93176385/26e494d9-2708-4809-a9c5-fcc999fb0842)
+
+<img width="810" alt="Screenshot 2025-02-16 at 3 00 12 PM" src="https://github.com/user-attachments/assets/aa366474-021b-487d-8936-5075d29b5f03" />
 
 ### Dashboard
-![image](https://github.com/Pritosh4/Climate-Clash/assets/93176385/4436165c-56b3-4ef5-ae53-a4c730c7c4fd)
+<img width="818" alt="Screenshot 2025-02-16 at 2 31 59 PM" src="https://github.com/user-attachments/assets/dac2df10-b7c6-41cf-8d2b-6532683cc8ff" />
 
-![image](https://github.com/Pritosh4/Climate-Clash/assets/93176385/0ed7e8fa-abca-4132-8e54-6edb138f629e)
+<img width="820" alt="Screenshot 2025-02-16 at 2 32 07 PM" src="https://github.com/user-attachments/assets/78e885ee-49bd-43fe-b3d3-8b2e884b86a3" />
 
-## Inspiration
-After I started coming to college, I noticed a pattern wherein I would quickly fall sick and it would take me around three days to recover each time I came back to campus from home. This observation sparked my curiosity, and I decided to investigate the possible reasons behind my recurrent sickness. I decided to analyse the climatic data of my college and compare it to the weather conditions back home.
 
 ## Process
 To begin my analysis, I collected data on various weather parameters such as temperature, humidity, precipitation, wind speed, etc for both locations. I obtained historical weather data for the corresponding periods of time when I was sick over a span of 12 months.
