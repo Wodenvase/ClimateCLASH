@@ -1,5 +1,5 @@
 # Climate-Clash
-An extensive analysis that aims to identify the specific climatic factors in VIT Bhopal responsible for causing my medical issues by analyzing and comparing the climatic data of VIT Bhopal with my hometown Mumbai, Maharashtra.
+An extensive analysis that aims to identify the specific climatic factors in VIT Bhopal responsible for causing my medical issues by analyzing and comparing the climatic data of VIT Bhopal with somewhere much more humid such as in Kerala.
 
 ## Screenshots
 
@@ -17,10 +17,10 @@ An extensive analysis that aims to identify the specific climatic factors in VIT
 To begin my analysis, I collected data on various weather parameters such as temperature, humidity, precipitation, wind speed, etc for both locations. I obtained historical weather data for the corresponding periods of time when I was sick over a span of 12 months.
 I loaded the data into a `PostgreSQL` database and analysed this data using `SQL` queries to answer questions such as:
 - When was the hottest day on campus?
-- When was the hottest day at home?
+- When was the hottest day at Kerala?
 - What was the temperature when one of the two places was experiencing its hottest day?
 - When was the coldest day on campus?
-- When was the coldest day at home?
+- When was the coldest day at Kerala?
 - What was the average temperature of each month?
   
 After answering these questions, I visualized this data, using Tableau, in multiple ways to gain the necessary insights required to reach a detailed answer.
